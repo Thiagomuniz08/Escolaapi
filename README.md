@@ -1,4 +1,4 @@
-# Escola
+# Escola Mobile
 ## Gestão web de atividades por professor
 
 ## Ambiente de desenvolvimento
@@ -40,7 +40,7 @@ npm run dev
 ```
 Clicar no link localhost para executar, semelhante a este http://localhost:5173/
 
-## Screenshots
+## Prints
 ![Screenshot 01](./docs/1.png)
 ![Screenshot 02](./docs/2.png)
 ![Screenshot 03](./docs/3.png)
@@ -48,5 +48,6 @@ Clicar no link localhost para executar, semelhante a este http://localhost:5173/
 ![Screenshot 05](./docs/5.png)
 ![Screenshot 06](./docs/6.png)
 ![Screenshot 06](./docs/7.png)
+
 
 
