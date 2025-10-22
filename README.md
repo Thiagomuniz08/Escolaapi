@@ -1,5 +1,5 @@
 # Escola Mobile
-## Gestão web de atividades por professor
+## Web gestão de atividades por professor
 
 ## Ambiente de desenvolvimento
 - Node.js
@@ -47,6 +47,7 @@ npm run dev
 ![Screenshot 05](./docs/5.png)
 ![Screenshot 06](./docs/6.png)
 ![Screenshot 06](./docs/7.png)
+
 
 
 
