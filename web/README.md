@@ -1,4 +1,4 @@
-# Escola - Gestão de atividades
+# Escola Mobile - Gestão de atividades
 ## Tecnologias
 - React
 - TypeScript
@@ -13,4 +13,3 @@ cd web
 npm install
 npm run dev
 ```
-Clicar no link localhost para executar, semelhante a este: http://localhost:5173/
