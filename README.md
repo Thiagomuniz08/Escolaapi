@@ -41,10 +41,12 @@ npm run dev
 Clicar no link localhost para executar, semelhante a este http://localhost:5173/
 
 ## Screenshots
-![Screenshot 01](./docs/screenshot01.png)
-![Screenshot 02](./docs/screenshot02.png)
-![Screenshot 03](./docs/screenshot03.png)
-![Screenshot 04](./docs/screenshot04.png)
-![Screenshot 05](./docs/screenshot05.png)
-![Screenshot 06](./docs/screenshot06.png)
+![Screenshot 01](./docs/1.png)
+![Screenshot 02](./docs/2.png)
+![Screenshot 03](./docs/3.png)
+![Screenshot 04](./docs/4.png)
+![Screenshot 05](./docs/5.png)
+![Screenshot 06](./docs/6.png)
+![Screenshot 06](./docs/7.png)
+
 
