@@ -38,7 +38,6 @@ cd web
 npm install
 npm run dev
 ```
-Clicar no link localhost para executar, semelhante a este http://localhost:5173/
 
 ## Prints
 ![Screenshot 01](./docs/1.png)
@@ -48,6 +47,7 @@ Clicar no link localhost para executar, semelhante a este http://localhost:5173/
 ![Screenshot 05](./docs/5.png)
 ![Screenshot 06](./docs/6.png)
 ![Screenshot 06](./docs/7.png)
+
 
 
 
